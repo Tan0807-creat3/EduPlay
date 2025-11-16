@@ -4,6 +4,7 @@
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![PySide6](https://img.shields.io/badge/PySide6-6.5+-green.svg)](https://pypi.org/project/PySide6/)
 [![GitHub](https://img.shields.io/badge/GitHub-Tan0807--creat3%2FEduPlay-blue)](https://github.com/Tan0807-creat3/EduPlay.git)
+[![GitHub](https://img.shields.io/badge/EduplayStudio-Education--creat3%2FEduPlay-red)](https://github.com/Tan0807-creat3/EduPlay.git)
 
 A comprehensive educational game creation tool for teachers, built with PySide6 and Python.
 
