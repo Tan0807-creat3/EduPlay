@@ -115,7 +115,7 @@ If any provision is found invalid, the remaining provisions shall remain in effe
 
 **EduPlay Studio**  
 Email: eduplay.line@hotmail.com  
-Project Repository: https://github.com/Tan0807-creat3/EduPlay.git  
+Project Repository: [https://github.com/Tan0807-creat3/EduPlay.git  ](https://github.com/Tan0807-creat3/EduPlay-Studio)
 
 ---
 
