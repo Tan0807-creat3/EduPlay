@@ -1,0 +1,96 @@
+MIT License
+
+Copyright (c) 2025 EduPlay Studio
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+TERMS OF USE – EDUPLAY STUDIO
+Last updated: 17/12/2025
+Welcome to EduPlay Studio – an educational platform designed to help teachers and learners create, manage, and experience interactive learning games.
+By installing, accessing, or using EduPlay Studio, you confirm that you have read, understood, and agree to be bound by the following Terms of Use. If you do not agree, please discontinue using the application.
+________________________________________
+1. DEFINITIONS
+•	Application / Software: EduPlay Studio, including its executable program, interface, data, assets, and all related components.
+•	User: Any individual or organization using EduPlay Studio, including teachers, students, and administrators.
+•	Content: Any questions, educational data, images, audio, text, games, or other materials created, imported, or used by the user within the application.
+________________________________________
+2. PURPOSE AND SCOPE OF USE
+EduPlay Studio is provided for:
+•	Educational and training purposes
+•	Creating educational games and interactive activities
+•	Supporting teaching, learning, and knowledge presentation
+Users must not use the application for illegal activities or purposes that conflict with educational values.
+________________________________________
+3. USER RIGHTS AND RESPONSIBILITIES
+Users agree that they:
+•	Are fully responsible for all content they create, import, or share
+•	Will not use EduPlay Studio to distribute content that:
+o	Violates applicable laws or regulations
+o	Is offensive, violent, pornographic, or discriminatory
+o	Infringes upon privacy or intellectual property rights of third parties
+•	Will not attempt to reverse-engineer, modify, exploit vulnerabilities, or disrupt the operation of the software
+________________________________________
+4. INTELLECTUAL PROPERTY RIGHTS
+•	EduPlay Studio and its core components (source code, interface, design, logo, icons) are the intellectual property of EduPlay Studio or its lawful licensors.
+•	Users may not copy, modify, distribute, or commercialize the software without prior written permission.
+4.1 User-Generated Content
+•	Users retain ownership of the content they create.
+•	By using EduPlay Studio, users grant the application the necessary rights to store, process, and display such content solely for functional purposes.
+________________________________________
+5. THIRD-PARTY ASSETS AND LICENSES
+EduPlay Studio may include third-party assets (such as images, sounds, or templates) used under appropriate licenses.
+Users agree to:
+•	Comply with the licensing terms of third-party resources
+•	Not use these assets beyond the permitted scope
+________________________________________
+6. PRIVACY AND DATA
+•	EduPlay Studio respects user privacy.
+•	Data may be stored locally or managed by the user.
+•	Users are responsible for safeguarding their data, accounts, and devices.
+EduPlay Studio shall not be liable for data loss caused by user actions, hardware failure, or factors beyond reasonable control.
+________________________________________
+7. LIMITATION OF LIABILITY
+EduPlay Studio is provided "as is", without warranties of any kind.
+We do not guarantee that:
+•	The application will operate without interruption or errors
+•	The software will meet all specific user requirements
+To the maximum extent permitted by law, EduPlay Studio shall not be liable for any direct or indirect damages arising from the use or inability to use the application.
+________________________________________
+8. TERMINATION
+EduPlay Studio reserves the right to:
+•	Suspend or terminate usage if these Terms are violated
+•	Modify or discontinue the application without prior notice
+Users may stop using EduPlay Studio at any time by uninstalling the software.
+________________________________________
+9. CHANGES TO TERMS
+EduPlay Studio may update these Terms of Use from time to time.
+Updated versions will be published with a revised date. Continued use of the application constitutes acceptance of the updated terms.
+________________________________________
+10. GOVERNING LAW
+These Terms shall be governed by and construed in accordance with the laws of Vietnam.
+If any provision is found invalid, the remaining provisions shall remain in full force and effect.
+________________________________________
+11. CONTACT INFORMATION
+For questions, feedback, or legal inquiries regarding these Terms of Use, please contact:
+EduPlay Studio
+Email: eduplay.line@hotmail.com
+Project Repository: https://github.com/Tan0807-creat3/EduPlay.git
+________________________________________
+By using EduPlay Studio, you acknowledge that you have read, understood, and agreed to these Terms of Use.
+
